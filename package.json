@@ -1,6 +1,6 @@
 {
   "name": "express-yesterday",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "express-yesterday",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
